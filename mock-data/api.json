@@ -1,0 +1,8 @@
+[
+    {
+        "name" : "サンプル用",
+        "path" : "/sample1",
+        "method":"GET",
+        "file" : "sample1.json"
+    }
+]
